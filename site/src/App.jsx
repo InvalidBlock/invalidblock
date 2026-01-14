@@ -1,12 +1,10 @@
 import './App.css'
-import Bio from './components/home/Bio.jsx'
-import Games from './components/Games.jsx'
+import Home from "./components/home/Home.jsx";
 
 function App() {
   return (
     <>
-    {/* <Bio /> */}
-    {/* <Games /> */}
+    <Home />
     </>
   )
 }
